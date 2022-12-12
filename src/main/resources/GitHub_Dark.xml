@@ -1,4 +1,4 @@
-<scheme name="GitHub Dark" version="142"
+<scheme name="ZK GitHub Dark" version="101"
 parent_scheme="Darcula">
   <metaInfo>
     <property name="created">2022-06-09T22:52:00</property>
@@ -202,7 +202,7 @@ parent_scheme="Darcula">
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
         <option name="FOREGROUND" value="#d2a8ff" />
-        <option name="FONT_TYPE" value="3" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER">

@@ -1,8 +1,8 @@
 <idea-plugin>
-    <id>ZivKap.GutHubTheme</id>
-    <name>GitHub Theme</name>
-    <version>1.0.0</version>
-    <vendor email="zivkaplan@gmail.com" url="https://github.com/zivkap/github-theme-for-jetbrains">
+    <id>ZivKap.GitHubTheme</id>
+    <name>ZK GitHub Theme</name>
+    <version>1.0.1</version>
+    <vendor email="zivkaplan@gmail.com" url="https://github.com/zivkaplan/github-theme-for-jetbrains">
         Ziv Kaplan
     </vendor>
 
