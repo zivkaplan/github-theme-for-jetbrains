@@ -6,9 +6,10 @@
         Ziv Kaplan
     </vendor>
 
-    <description>
+    <description><![CDATA[
         A mix of https://github.com/zivkaplan/github-theme-for-jetbrains and https://github.com/toby-j/Intellij_GitHub_Dark_Theme
-    </description>
+    ]]></description>
+
 
     <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
     <idea-version since-build="191.0"/>
