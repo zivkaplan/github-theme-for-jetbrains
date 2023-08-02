@@ -9,10 +9,10 @@
         "foreground": "#D9DBDE",
         "infoForeground": "#8b949e",
     
-        "selectionBackground": "#21262d",
-        "selectionForeground": "#D9DBDE",
-        "selectionInactiveBackground": "#161b22",
-        "selectionBackgroundInactive": "#161b22",
+        "selectionBackground": "#8b949e",
+        "selectionForeground": "#ffffff",
+        "selectionInactiveBackground": "#737c85",
+        "selectionInactiveForeground": "#D9DBDE",
     
         "lightSelectionBackground": "#2B4059",
         "lightSelectionForeground": "#D9DBDE",
